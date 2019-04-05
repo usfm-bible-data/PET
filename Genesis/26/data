@@ -1,8 +1,10 @@
 \c 26
+\s1 REMEMBER! At the start of a chapter, you must have a backslash p before backslash v. Usually this follows s1. If you forget to do this, all the text will be the chapter number size.
+\p
 \v 1 Not much later there was a famine in that land, like what had happened in Abraham's time. Because of that, for a while Isaac—  with all that he owned, moved to Gerar, that is a district of Abimelek's authority, a Philistine king.
 \v 2 Then the LORD showed himself to him and said, "Don't go to Egypt! Remain in the land that I will show to you.
-\v 3
-\v 4
+\v 3 Starting a new verse. You can hit Alt-downarrow to go to the next verse. This does skip to the next verse when typing at the end of the verse. A work-around for using the browser is to put several characters at the end of the verse. So right now I am typing without the right column switching places, because the three dollar signs are at the end of the verse. $$$
+\v 4 So with the dollar signs at the end, and typing before them, the editor doesn't skip around. $$$
 \v 5
 \v 6
 \v 7
