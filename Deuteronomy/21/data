@@ -1,4 +1,5 @@
 \c 21
+\s1 Peraturan
 \p
 \v 1
 \v 2
@@ -9,17 +10,25 @@
 \v 7
 \v 8
 \v 9
+\s1 Peraturan
+\p
 \v 10
 \v 11
-\v 12
+\v 12\f + \fr 21:12 \fk mael.\f*
 \v 13
 \v 14
+\s1 Perat
+\p
 \v 15
 \v 16
 \v 17
+\s1 Peratura
+\p
 \v 18
 \v 19
 \v 20
 \v 21
+\s1 Perat
+\p
 \v 22
 \v 23
