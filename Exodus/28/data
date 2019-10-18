@@ -1,19 +1,25 @@
 \c 28
+\s Pakaian
 \p
 \v 1
 \v 2
 \v 3
 \v 4
 \v 5
-\v 6
+\s Baju 
+\p
+\v 6 \f + \fr 28:6 \fk baju efod \ft esar.\f*
 \v 7
 \v 8
+\p
 \v 9
 \v 10
 \v 11
 \v 12
 \v 13
 \v 14
+\s Penutup
+\p
 \v 15
 \v 16
 \v 17
@@ -21,6 +27,7 @@
 \v 19
 \v 20
 \v 21
+\p
 \v 22
 \v 23
 \v 24
@@ -28,17 +35,25 @@
 \v 26
 \v 27
 \v 28
+\p
 \v 29
-\v 30
+\v 30 \f + \fr 28:30 \fk Urim\ft Urima.\f*
+\s Jubah
+\p
 \v 31
 \v 32
-\v 33
+\v 33\f + \fr 28:33 \fk buah \ft Bupipih.\f*
 \v 34
 \v 35
+\s Serban
+\p
 \v 36
 \v 37
 \v 38
+\s Pakaian 
+\p
 \v 39
+\p
 \v 40
 \v 41
 \v 42
